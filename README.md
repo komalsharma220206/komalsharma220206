@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GIF_URL" width="250"/>
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250"/>
 </p>
 ![Profile Views](https://komarev.com/ghpvc/?username=komalsharma220206&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
