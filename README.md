@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="YOUR_GIF_URL" width="250"/>
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=komalsharma220206&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 - 🔭 I’m currently working on full stack development and data analyst
