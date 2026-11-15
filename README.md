@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="250"/>
 </p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=komalsharma220206&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 - 🔭 I’m currently working on full stack development and data analyst
