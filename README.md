@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on full stack development and data analyst
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on full stack and data analytics projects
-- <div align="center">
+  <div align="center">
 
 # 🎀 Hey I'm Komal 💗
 
@@ -13,7 +13,8 @@
 ✨ Building dreams, one commit at a time ✨
 
 💗 Full Stack Developer
+<br>
 🎀 AI/ML Explorer
-👑 Future Software Engineer
+<br>
 
 </div>
