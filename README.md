@@ -27,4 +27,37 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=light" />
 </p>
+✨ Featured Projects
+
+♻️ Scrap2Life
+
+Turn finished projects into the next student's starting point.
+
+An AI-powered campus marketplace that transforms unused engineering and project components into verified, searchable resources and connects students who need them.
+
+AI-assisted listings and component identification
+
+Smart search and WANTED requests
+
+Project deconstruction and resource reuse
+
+Peer mentorship through Build with Senior
+
+Tech Stack: React.js · JavaScript · Node.js · Express.js · MongoDB · Google Gemini API
+
+📚 TeachChhota
+
+Learn by understanding. Prove it by teaching.
+
+An AI-powered personalized learning platform designed to make learning Maths and Science engaging for students in Classes 6–12.
+
+Personalized learning based on existing knowledge
+
+Interactive lessons grounded in NCERT resources
+
+Feynman-inspired teach-back learning
+
+AI-powered feedback to evaluate conceptual understanding
+
+Tech Stack: React · Vite · Node.js · Express.js · Gemini API · RAG
 
