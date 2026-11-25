@@ -61,3 +61,9 @@ AI-powered feedback to evaluate conceptual understanding
 
 Tech Stack: React · Vite · Node.js · Express.js · Gemini API · RAG
 
+🌴 **Palmivo | Gesture-Controlled 3D CAD Workbench**
+
+A browser-based 3D CAD platform that lets users create, edit, and export 3D models using webcam hand gestures, mouse, or keyboard. Features AI-powered gesture recognition, real-time 3D modelling, Boolean operations, STL/OBJ exports, and AI-powered voice inspection.
+
+**Tech Stack:** JavaScript · Three.js · MediaPipe · ONNX Runtime Web · Manifold CAD · Vite · Node.js · Python · ElevenLabs · Render
+
